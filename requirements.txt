@@ -1,0 +1,15 @@
+certifi
+chardet
+click
+flask
+future
+gunicorn
+idna
+itsdangerous
+jinja2
+markupsafe
+python-telegram-bot
+requests
+urllib3
+werkzeug
+setuptools
